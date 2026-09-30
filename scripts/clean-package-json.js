@@ -36,7 +36,7 @@ packageJson = {
     'CHANGELOG.md',
   ],
   keywords: ['gvv', 'git', 'mudbean', 'vvi'],
-  homepage: 'https://npm.gleanings.cn/gvv',
+  homepage: 'https://npms.gleanings.cn/gvv',
   dependencies,
   bugs: {
     url: 'https://github.com/gleanings/gvv/issues',
