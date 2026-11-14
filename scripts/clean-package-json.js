@@ -23,7 +23,7 @@ packageJson = {
   ...packageJson,
   author: {
     name: '泥豆君',
-    email: 'Mr.MudBean@outlook.com',
+    email: 'MudBean@outlook.com',
     url: 'https://mudbean.cn',
   },
   description: 'git add ➞ git commit ➞ git push',
@@ -35,16 +35,16 @@ packageJson = {
     'THIRD-PARTY-LICENSES.txt',
     'CHANGELOG.md',
   ],
-  keywords: ['gvv', 'git', 'mudbean', 'vvi'],
+  keywords: ['gvv', 'git', 'vvi'],
   homepage: 'https://npms.gleanings.cn/gvv',
   dependencies,
   bugs: {
-    url: 'https://github.com/gleanings/gvv/issues',
+    url: 'https://github.com/hippopotomonstrosesquipedaliophobe/gvv/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/gleanings/gvv.git',
+    url: 'git+https://github.com/hippopotomonstrosesquipedaliophobe/gvv.git',
   },
   publishConfig: {
     access: 'public',

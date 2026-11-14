@@ -1,5 +1,10 @@
-import { _p, isWindows, pathJoin, runOtherCode } from '@vvi/node';
-import { copyTextToClipboard } from '@vvi/copy-text';
+import {
+  _p,
+  isWindows,
+  pathJoin,
+  runOtherCode,
+  copyTextToClipboard,
+} from '@vvi/node';
 import { brightBlackPen, cyanPen, randomPen } from '@vvi/pen';
 
 await runOtherCode('pnpm jja cls');
